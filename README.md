@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Jefferson+Alves;Desenvolvedor+em+formação;Focado+em+Back-end+e+Web;Sempre+aprendendo+novas+tecnologias" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Jefferson+Alves.;Desenvolvedor+em+formação.;Focado+em+sempre+melhorar.;Sempre+aprendendo+novas+tecnologias." />
 </p>
 
-### Olá! Eu sou o Willijefferson Alves. 👨‍💻
+### Olá! Eu sou o Willijefferson Alves.
 
 ---
 
 💻 Desenvolvedor em formação <br>
-🔭 Graduando em Sistema de Informações.
-🌱 Curso FullStack.
-📫 Contate-me no email: souzawilli97@gmail.com
-📍 Brasil
+🔭 Graduando em Sistema de Informações.<br>
+🌱 Curso FullStack.<br>
+📫 Contate-me no email: souzawilli97@gmail.com<br>
+📍 Brasil<br>
 
 ---
 
