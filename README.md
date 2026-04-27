@@ -27,6 +27,7 @@
 🚀 Tecnologias
 <div align="center">
 
+<table>
   <tr>
     <td align="center">
       <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br>
@@ -45,6 +46,7 @@
       Python
     </td>
   </tr>
+</table>
 
 </div>
 
