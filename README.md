@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Jefferson+Alves.;Desenvolvedor+em+formação.;Focado+em+sempre+melhorar.;Sempre+aprendendo+novas+tecnologias." />
 </p>
 
-### Olá! Eu sou o Willijefferson Alves.
+<div align="center">
+  ### Olá! Eu sou o Willijefferson Alves.
+</div>
 
 ---
 
