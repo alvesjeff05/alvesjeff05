@@ -6,11 +6,11 @@
 
 ---
 
-💻 Desenvolvedor em formação <br>
+💻 Desenvolvedor em formação.<br>
 🔭 Graduando em Sistema de Informações.<br>
 🌱 Curso FullStack.<br>
 📫 Contate-me no email: souzawilli97@gmail.com<br>
-📍 Brasil<br>
+📍 Brasil.<br>
 
 ---
 
