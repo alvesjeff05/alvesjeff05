@@ -22,20 +22,19 @@
 <table>
   <tr>
     <td align="center">
-      <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws.svg"><br>
-      JavaScript
-    </td>
-    <td align="center">
       <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>
-      HTML
     </td>
     <td align="center">
       <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
-      CSS
     </td>
     <td align="center">
       <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br>
-      Python
+    </td>
+    <td align="center">
+      <img height="50" width="50" src="(https://skillicons.dev/icons?i=aws)](https://skillicons.dev)"><br>
+    </td>
+    <td align="center">
+      <img height="50" width="50" src="(https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)"><br>
     </td>
   </tr>
 </table>
