@@ -17,29 +17,11 @@
 ---
 
 🚀 Tecnologias
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>
-    </td>
-    <td align="center">
-      <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
-    </td>
-    <td align="center">
-      <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br>
-    </td>
-    <td align="center">
-      <img height="50" width="50" src="(https://skillicons.dev/icons?i=aws)](https://skillicons.dev)"><br>
-    </td>
-    <td align="center">
-      <img height="50" width="50" src="(https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)"><br>
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,flutter,docker,py,aws,postgres" />
+  </a>
+</p>
 
 ---
 
