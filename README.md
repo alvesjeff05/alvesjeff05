@@ -16,14 +16,6 @@
 
 ---
 
-<div align="center">
-    <a href="https://beacons.ai/alvesjeff05">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvesjeff05&show_icons&theme=dark&include_all_comits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesjeff05&layout=compact&langs_counts=16&theme=dark"/>
-</div>
-
----
-
 🚀 Tecnologias
 <div align="center">
 
